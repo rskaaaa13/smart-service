@@ -1,0 +1,12 @@
+body {
+    height: 100%;
+    font-family: 'Calibri', sans-serif;
+    background: rgb(55,214,255);
+    background: radial-gradient(circle, rgba(55,214,255,1) 0%, rgba(16,181,221,1) 0%, rgba(1,177,214,1) 100%);
+}
+
+.col-md-5, .col-md-3, .col-md-6 {
+    background-color: rgb(245, 245, 245);
+    border-radius: 1%;
+}
+
